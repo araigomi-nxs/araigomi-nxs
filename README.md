@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 📄Hi, I'm known as Nexus online. I am a student currently studying Information_Technology<br><br><br>PORT:<br>📁Community Support & Moderation Associate @ Magma.com<br>📁Freelance Asset Developer @Minecraft Marketplace<br>📁Illustrator & Graphics Designer Hobbyist<br><br><br>PrintLn("Welcome to my GitHub page");
 
 
