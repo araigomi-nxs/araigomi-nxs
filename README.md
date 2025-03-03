@@ -4,7 +4,7 @@
 
 <h2 align="left">About me;</h2>
 
-###
+
 
 <p align="left">📄Hi, I'm known as Nexus online. I am a student currently studying Information_Technology<br><br><br>PORT:<br>📁Community Support & Moderation Associate @ Magma.com<br>📁Freelance Asset Developer @Minecraft Marketplace<br>📁Illustrator & Graphics Designer Hobbyist</p>
 
@@ -14,9 +14,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
 
