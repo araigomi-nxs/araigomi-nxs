@@ -19,10 +19,7 @@
 <br />
 <h2 align="left">Main</h2>
 <div align="left">
-  
-</div>
-<h2 align="left">Lil Bit of Experience</h2>
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="figma" />
+ <img src="https://skillicons.dev/icons?i=java" height="40" alt="figma" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
   <img width="12" />
@@ -38,8 +35,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="figma" />
   <img width="12" />
-  
-  
+</div>
+<h2 align="left">Lil Bit of Experience</h2>
+   
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="figma" />
   <img width="12" />
