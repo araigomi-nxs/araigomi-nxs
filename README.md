@@ -17,8 +17,11 @@
 </p>
 
 <br />
-
-<h2 align="left">Softwares</h2>
+<h2 align="left">Main</h2>
+<div align="left">
+  
+</div>
+<h2 align="left">Lil Bit of Experience</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
@@ -45,7 +48,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack" />
 </div>
 
 <br />
