@@ -11,7 +11,7 @@
   <br />
   📁 Community Support &amp; Moderation Associate @ Magma.com
   <br />
-  📁 Freelance Asset Developer @ Minecraft Marketplace
+  📁 Freelance Asset Developer @Blockbytes LLC @ Minecraft Marketplace
   <br />
   📁 Illustrator &amp; Graphics Designer (hobbyist)
 </p>
@@ -22,23 +22,40 @@
   
 </div>
 <h2 align="left">Lil Bit of Experience</h2>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="figma" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" jjalt="cs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet"teight="40" alt="dotnet" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android-studio" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="figma" />
+  <img width="12" />
+  
+  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discordjs" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="c" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit" />
   <img width="12" />
